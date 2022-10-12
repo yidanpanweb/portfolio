@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{profile.html}
+
+~~~
+{}{img_left}{./images/banner2.png}{profile pic}{100%}{}{}
+~~~
+
+~~~
+{}{img_left}{./images/profile.png}{profile pic}{200px}{200px}{}
+= Yidan Pan
+[https://www.linkedin.com/in/yidanpan-bio// LinkedIn]  
+[https://github.com/pdpdpd// GitHub]
+[https://github.com/yidanpanweb/yidanpanweb/raw/daa7664ff8e160cd730c8a61f9eebc605b97ffb5/Resume_2022_YidanPan.pdf// CV]
+=== Associate Scientist, Postdoctoral Fellow, [https://www.merck.com// Merck]\n
+I am an associate scientist, postdoc fellow at Merck.
+My research interests primarily focus on cancer biomarker discovery from big transcriptomic data and multi-omics analysis to better understand the ecosystem inside tumor microenvironment. 
+
+
+~~~
+
+== Biography
+ 
+I appreciate my interdisciplinary experiences in molecular biology wet lab, bioinformatics and statistics. My expertise includes CRISPR\/Cas9 applications, NGS\/TGS processing, machine learning and target discovery.
+
+I have a Ph.D. in System, Synthetic and Physical Biology (SSPB) from Rice University. 
+
+I graduated from Southern University of Science and Technology(SUSTech) with a B,Sc. in Biology. 
+
+== Transferrable Skills Highlights
+
+Experience with application of AI/ML in large data analyses, integration, mining and analyses to generate new testable hypotheses.
+
+Previous experience in analyzing DNA and RNA data, interpretation of large DNA and/or RNA sequencing datasets with with clinical covariates
+
+Proficiency in statistical programming languages.
+
+Knowledge of cancer genetics, cancer biology and immunology.
+
+Capable of integrating information generated from multiple sources to strengthen research hypotheses.
+
+Experience with high-performance Linux cluster and cloud computing.
+
+== Key Projects
+
+Integration of bulk and single cell RNA-seq data to characterize reproducible subtypes of fibroblasts across tumor types.
+
+Pathway dysfunction in mesenchymal-endothelial interactions promoted LUAD cancer progression.
+
+[https://www.biorxiv.org/content/10.1101/2021.08.28.457846v2.article-info// The Need for Transfer Learning in CRISPR-Cas Off-Target Scoring].
+
+== Publications
+
+Pan, Y., Tian, R., Lee, C., Bao, G., and Gibson, G. (2020). Fine-mapping within eQTL Credible Intervals by Expression CROP-seq. Biology Methods and Protocols.
+
+Bao, X. R., Pan, Y., Lee, C. M., Davis, T. H., and Bao, G. (2021). Tools for experimental and com- putational analyses of off-target editing by programmable nucleases. Nature protocols 16, 10–26. Pavan, K., Pan, Y., Vu, H.-A., Cao, M., Baraniuk, R. G., and Bao, G. (2021). The Need for Transfer Learning in CRISPR-Cas Off-Target Scoring. bioRxiv.
+        
+Tian, R., Pan, Y., Etheridge, T. H., Deshmukh, H., Gulick, D., Gibson, G., Bao, G., and Lee, C. M. (2020). Pitfalls in Single Clone CRISPR-Cas9 Mutagenesis to Fine-map Regulatory Intervals. Genes 11, 504.
+
+Park, S. H., Cao, M., Pan, Y., Davis, T., Saxena, L., Deshmukh, H., Fu, Y., Todd, T., Sheehan, V., and Bao, G. (2022). Comprehensive analysis and accurate quantification of unintended large gene modifications induced by CRISPR/Cas9 gene editing. Science Advance - In press.
+
+Sharma, R., Dever, D. P., Lee, C. M., Azizi, A., Pan, Y., Camarena, J., K ̈ohnke, T., Bao, G., Porteus, M. H., and Majeti, R. (2021). The TRACE-Seq method tracks recombination alleles and identifies clonal reconstitution dynamics of gene targeted human hematopoietic stem cells. Nature Communications 12, 1–12.
+
+Pan, Y., and Deem, M. W. (2016). Prediction of influenza B vaccine effectiveness from sequence data. Vaccine 34, 4610–4617.

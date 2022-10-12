@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{projects.html}
+= Projects
+This page contains all my research projects. The dates indicate the project starting dates.
+
+== 2020
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== Biomarker discovery for novel targets in tumor stroma
+Created analytical framework for integrating bulk RNA-seq and scRNA-seq data of tumor microenvi- ronment.
+Analyzed stroma subsets for biomarker identification; Performed tumor-specific association and survival analysis for prioritizing biomarkers.
+~~~
+
+
+== 2019
+
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== Consequences Profiling of CRISPR-Cas9 Mediated Genome Editing
+Developed Illumina short read platform based assay (LongAmp-seq) to profile on-target CRISPR-Cas9 mutagenesis patterns, which revealed up to 31% large deletions that were previously missing from the gold standard amplicon short-range Next-Generation Sequencing(NGS).
+
+Established pipeline for high-throughput profiling of editing consequences, including symmetric and asymmetric large deletions, insertions and chromosomal rearrangements.
+
+Explored bioinformatics options to overcome the potential bias and errors from PCR and sequencing to achieve quantification.
+~~~
+
+== 2018
+
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== Donec gravida rutrum libero
+=== Curabitur mollis elementum mauris in volutpat
+Aenean posuere erat vel rutrum mollis. Aliquam mattis augue erat. Sed tellus turpis, laoreet id turpis vel, fringilla pulvinar nisi. Ut vitae euismod diam, et luctus tellus.
+~~~
+
+~~~
+{}{img_left}{./images/pic06.png}{}{280px}{}{}
+== Aliquet scelerisque risus tincidunt a
+=== Pellentesque dapibus, odio quis varius consequat
+Nunc eget ex et odio tempus convallis sed in eros. Aliquam laoreet bibendum erat, vitae accumsan tellus.
+~~~
+
+== 2017 
+
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== Off-Target Analysis for Personalized CRISPR-Cas9 gRNA Designs
+Performed experimental genome-wide off-target screening in 5 individual lymphoblastoid cell lines, which proved that individual variants could alter CRISPR-Cas9 targeting profiles.
+ 
+Developed bioinformatics tool for variant aware off-target screening and annotation-based ranking. Compared the performance of existing CRISPR-Cas9 off-target scoring algorithms and proposed a novel deep-learning algorithm for CRISPR/Cas9 off-target risk assessment.
+~~~
+
+== 2016
+
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== Genome Editing based Fine-Mapping within eQTL Credible Intervals 
+Combined multiplex CRISPR-Cas9 genome editing with single cell RNAseq to measure perturbation in transcript abundance for fine-mapping causal genomic variants with moderate throughput, which successfully identified two causal SNPs by screening 67 targets in parallel.
+
+Performed genome editing and cell line preparation in low throughput (single-cell clone) and moderate throughput (lenti-virus library), with experimental and computational validation in editing efficiencies and transcript abundance variations.
+~~~
+
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== Unbiased Genome-Wide Off-Target Site Detection Assay
+Established assays for unbiased in-cellular genome-wide CRISPR off-target site detection, which had over 30-fold signal enrichment for on-target sites.
+
+Explored the potential of using chromatin immunoprecipitation(ChIP) and click-chemistry for the la- beling of CIRSPR/Cas9 off-target sites and examined options for signal enrichment and background removal.
+~~~
+
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== Prediction of Influenza B Vaccine Effectiveness from Sequence Data
+Refined the antigenic determinant model of the influenza B virus based on its evolution from 1960 to 2014 for better annual flu vaccine design.
+
+Established an estimate of flu B vaccine effectiveness against a range of viral strains based on antigenic distance, which outperformed the gold standard HI assay based on 1979-2014 epidemiology data.
+~~~
